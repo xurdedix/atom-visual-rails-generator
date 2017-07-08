@@ -9,7 +9,7 @@ A terminal will open and the command will be execute
 
 ![Result at the terminal](https://github.com/xurdedix/atom-visual-rails-generator/blob/master/resources/result.png?raw=true)
 
-##TODO
+## TODO
 - Migration generator
 - Controller generator
 - full options

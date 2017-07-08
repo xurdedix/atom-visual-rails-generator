@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "visual-rails-generator:run"
   },
-  "repository": "https://github.com/atom/visual-rails-generator",
+  "repository": "https://github.com/xurdedix/atom-visual-rails-generator",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

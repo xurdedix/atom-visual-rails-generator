@@ -8,3 +8,8 @@ To generate a scaffold simply fill out the form and click generate
 A terminal will open and the command will be execute
 
 ![Result at the terminal](https://github.com/xurdedix/atom-visual-rails-generator/blob/master/resources/result.png?raw=true)
+
+##TODO
+- Migration generator
+- Controller generator
+- full options

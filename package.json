@@ -1,10 +1,9 @@
 {
   "name": "visual-rails-generator",
   "main": "./lib/visual-rails-generator",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A visual interface for the rails generator command",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "visual-rails-generator:run"
   },
@@ -20,6 +19,5 @@
       }
     }
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Open visual Rails generator'
+      'command': 'visual-rails-generator:run'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Visual Rails generator'
+      'submenu': [
+        {
+          'label': 'run'
+          'command': 'visual-rails-generator:run'
+        }
+      ]
+    ]
+  }
+]

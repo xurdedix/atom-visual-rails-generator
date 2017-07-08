@@ -1,0 +1,25 @@
+{
+  "name": "visual-rails-generator",
+  "main": "./lib/visual-rails-generator",
+  "version": "0.0.0",
+  "description": "A visual interface for the rails generator command",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "visual-rails-generator:run"
+  },
+  "repository": "https://github.com/atom/visual-rails-generator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "consumedServices": {
+    "runInTerminal": {
+      "versions": {
+        "0.14.x": "consumeRunInTerminal"
+      }
+    }
+  },
+  "dependencies": {
+  }
+}

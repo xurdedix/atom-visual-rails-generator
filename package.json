@@ -1,7 +1,7 @@
 {
   "name": "visual-rails-generator",
   "main": "./lib/visual-rails-generator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A visual interface for the rails generator command",
   "keywords": [
   ],
